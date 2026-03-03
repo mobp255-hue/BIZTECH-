@@ -1,0 +1,9 @@
+Flask
+Flask-SocketIO
+Flask-SQLAlchemy
+requests
+eventlet
+Werkzeug
+Pillow
+cryptography
+beautifulsoup4
